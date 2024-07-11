@@ -24,3 +24,4 @@ check the performance by
 -> Predicting the first 4 images of the test data using the above model. Then, comparing with the actual label for those 4
 images to check whether or not the model has predicted correctly.
 -> Visualizing Loss and Accuracy using the history object
+   Here is the zoom link https://drive.google.com/file/d/14MU84_9oGoKPJEB62a6kYdD_8LMjrljE/view?usp=drive_link
